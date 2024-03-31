@@ -3,7 +3,7 @@
 ## Etape a suivre
 
 * Lire le livre
-* ecouter mes videos
-* faire bcp de pratiques
-* poser des questions
-* construire des project perso
+* Ecouter mes videos
+* Faire bcp de pratiques
+* Poser des questions
+* Construire des project perso
