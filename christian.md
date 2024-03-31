@@ -4,4 +4,4 @@
 
 ### Etapes a suivre
 
-* > Revoir la video an practiquant
+* > Revoir la video emn pratiquant
