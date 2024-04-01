@@ -1,7 +1,7 @@
 # Ma page pou excercer git
 
 
-##juste pour faire les essais pour mieu comprendre
+## juste pour faire les essais pour mieu comprendre
 
 
 ### etape va suivre
